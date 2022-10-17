@@ -1,4 +1,4 @@
-#!/home/gylmonteiro/Documents/project/back_end/my_teacher/venv/bin/python3
+#!/home/gyl/Documents/projects/back_end/backmyteacher/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
